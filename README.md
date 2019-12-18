@@ -437,3 +437,12 @@ Für mich ist Open Source der kreativste und freiste Weg, mich als Entwickler au
 For me Open Source represents the power of collaboration. Lots and lots of small contributions bubble up something that's useful. Open source is fun and it works. It gives me control over the software I use.
 
 The adrenaline rush when your code finally starts working and your PR is merged, thats priceless. The discussions are really productive and there's a lot that I learn from others. This helps me expand my horizons while doing something I really love, to code. It also gives me a unique satifaction to know my code would help millions if not more. Thats what keeps me ticking!
+
+
+###[Hamed Omar]
+
+Open source means to me a chance to learn, work, live with others.
+Everyday we see wars and kills everywhere and that make us feel that
+people created as enemies but when I work with different people that
+gives me a new hope that we all can be great together.
+
